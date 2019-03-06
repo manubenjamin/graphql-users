@@ -1,0 +1,25 @@
+{
+  "name": "graphql-users",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manubenjamin/graphql-users.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manubenjamin/graphql-users/issues"
+  },
+  "homepage": "https://github.com/manubenjamin/graphql-users#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1",
+    "lodash": "^4.17.11"
+  }
+}
