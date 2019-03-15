@@ -23,12 +23,12 @@
         {
             "id": "1",
             "name": "Microsoft",
-            "Description": "IT Products and solutions"
+            "description": "IT Products and solutions"
         },
         {
             "id": "2",
             "name": "IBM",
-            "Description": "Travel Solutions"
+            "description": "Travel Solutions"
         }
     ]
 }
