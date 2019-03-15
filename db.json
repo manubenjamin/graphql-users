@@ -3,12 +3,32 @@
         {
             "id": "10",
             "firstName": "Manu",
-            "age": 30
+            "age": 30,
+            "companyId": "1"
         },
         {
             "id": "12",
             "firstName": "Adam",
-            "age": 35
+            "age": 35,
+            "companyId": "2"
+        },
+        {
+            "id": "15",
+            "firstName": "Alex",
+            "age": 25,
+            "companyId": "2"
+        }
+    ],
+    "companies": [
+        {
+            "id": "1",
+            "name": "Microsoft",
+            "Description": "IT Products and solutions"
+        },
+        {
+            "id": "2",
+            "name": "IBM",
+            "Description": "Travel Solutions"
         }
     ]
 }
